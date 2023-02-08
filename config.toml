@@ -1,0 +1,4 @@
+[theme]
+base="dark"
+# Background color for the main content area
+backgroundColor = '#273346'
